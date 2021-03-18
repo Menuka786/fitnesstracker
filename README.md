@@ -31,3 +31,12 @@ https://evening-ridge-83534.herokuapp.com/?id=604f70b567f44e0015069de7
 
 ![screen shot](screenshot3.png)
 
+## Following acceptance criteria has been met. The user is able to 
+
+  * Add exercises to the most recent workout plan.
+
+  * Add new exercises to a new workout plan.
+
+  * View the combined weight of multiple exercises from the past seven workouts on the `stats` page.
+
+  * View the total duration of each workout from the past seven workouts on the `stats` page.
